@@ -1,0 +1,109 @@
+table, th, tr, td {
+    text-align: center;
+    margin: 0%;
+  }
+button{
+width: 75px;
+height: 75px;
+}
+td{
+  width: 75px;
+  height: 75px;
+}
+body{
+    background-color: #402a23;
+    text-align: center;
+}
+.center {
+    margin: auto;
+  }
+.white{
+    background-color: #f3bc77;
+}
+.black{
+    background-color: #a55233;
+}
+.WK{
+  background-image: url('_wK.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.BK{
+  background-image: url('_bK.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.WQ{
+  background-image: url('_wQ.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.BQ{
+  background-image: url('_bQ.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.WB{
+  background-image: url('_wB.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.BB{
+  background-image: url('_bB.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.WR{
+  background-image: url('_wR.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.BR{
+  background-image: url('_bR.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.WN{
+  background-image: url('_wN.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.BN{
+  background-image: url('_bN.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.WP{
+  background-image: url('_wP.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.BP{
+  background-image: url('_bP.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
